@@ -5,6 +5,8 @@ public class HelloWorld {
 		int sneeze = 8;
 		int counter = 0;
 		
+		System.out.println("Hello Galaxy!"); //persoon 1
+		
 		while (counter < sneeze){
 			System.out.print("Ha");
 			counter = counter + 1;
